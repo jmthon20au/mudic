@@ -1,0 +1,3 @@
+pyrogram==2.1.0 # أو الإصدار اللي تستخدمه، 2.1.0 هو أحدث إصدار رئيسي
+youtube-dl # أو yt-dlp إذا كنت تفضلها (pip install yt-dlp)
+pyrogram-webvc
